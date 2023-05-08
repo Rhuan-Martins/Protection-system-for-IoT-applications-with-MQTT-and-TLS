@@ -9,11 +9,6 @@
   🦄 Linguagens: <strong><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />.</strong>
 </p>
 
-<p align="left">
-  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rhuan-souza/" /></a>
-</p>  
-
 ## Tema do trabalho de conclusão: Ferramentas de segurança de dados para sistemas IOT
 > Orientado: Rhuan Martins de Souza; 
 > Orientador: Esdras Nicoletto da Cunha
