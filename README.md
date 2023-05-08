@@ -243,5 +243,4 @@ Uma limitação desse sistema é a falta de um firewall físico na DMZ. Embora o
 Outra limitação é que o sistema não oferece proteção contra ataques de força bruta. Se um atacante conseguir acesso às chaves de criptografia ou senhas, ele poderá tentar adivinhar a chave ou senha através de tentativa e erro. Para minimizar esse risco, é importante escolher senhas seguras e utilizar medidas adicionais de autenticação, como a autenticação em dois fatores.
 Além disso, o sistema não oferece proteção contra ataques de phishing, que são aqueles em que um atacante tenta enganar o usuário final para obter informações confidenciais, como senhas ou chaves de criptografia. É importante que os usuários finais sejam treinados para reconhecer esse tipo de ataque e evitar clicar em links suspeitos ou fornecer informações confidenciais.
 
-Slide 22 - Agradecimento
-  .</p>
+Slide 22 - Agradecimento.</p>
