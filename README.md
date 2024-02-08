@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="justify"> 
-  Engenheiro de Controle e Automação formado pelo IFSP (Instituto Federal de Educação, Ciência e Tecnologia de São Paulo), altamente motivado e com habilidades e  experiência em chão de fábrica, equipamentos industriais e processos de produção.<br>
+  Engenheiro de Controle e Automação formado pelo IFSP (Instituto Federal de Educação, Ciência e Tecnologia de São Paulo), com habilidades e  experiência em chão de fábrica, equipamentos industriais e processos de produção.<br>
 </p>
 
 <p align="left">
