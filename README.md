@@ -13,7 +13,7 @@
 > Oriented: Rhuan Martins de Souza; 
 > Advisor: Esdras Nicoletto da Cunha
 
-### 💻 AbstractClick to apply
+### 💻 Abstract
 <p align="justify"> Home automation is an area of technology that studies the automation of a
 home to offer comfort, practicality and security. In recent decades, many
 professionals have focused on connecting equipment, sensors and actuators to the Internet, to allow users to
