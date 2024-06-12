@@ -1,246 +1,246 @@
-# Resumo Pessoal
+# Personal Summary
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="justify"> 
-  Engenheiro de Controle e Automação formado pelo IFSP (Instituto Federal de Educação, Ciência e Tecnologia de São Paulo), com habilidades e  experiência em chão de fábrica, equipamentos industriais e processos de produção.<br>
+  Control and Automation engineer graduated from the IFSP (Federal Institute of Education, Science and Technology of São Paulo), with skills and experience on the shop floor, industrial equipment and production processes.<br>
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />.</strong>
+  🦄 I code with: <strong><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />.</strong>
 </p>
 
-## Tema do trabalho de conclusão: Ferramentas de segurança de dados para sistemas IOT
-> Orientado: Rhuan Martins de Souza; 
-> Orientador: Esdras Nicoletto da Cunha
+## Final paper topic: Data security tools for IOT systems
+> Oriented: Rhuan Martins de Souza; 
+> Advisor: Esdras Nicoletto da Cunha
 
-### 💻 Resumo
-<p align="justify"> A automação residencial é uma área da tecnologia que estuda a automatização de uma
-residência ou habitação para oferecer conforto, praticidade e segurança. Nas últimas décadas, muitos
-profissionais se concentraram em conectar equipamentos, sensores e atuadores à Internet, para permitir
-que os usuários controlem e monitorem as coisas a qualquer hora e em qualquer lugar. Diversos
-equipamentos IoT(Internet of things) podem ter problemas em relação a segurança de informações,
-por estarem diretamente conectados à rede doméstica, além de toda a comunicação facilitada, o
-equipamento também fica suscetível à diversos ataques, que comprometem as suas funcionalidades,
-criando caminhos, onde usuários não autorizados podem aproveitar as brechas de segurança e roubar
-dados pessoais diretamente da rede doméstica. Este trabalho comprova uma metodologia de aplicação
-de IOT, utilizando um Raspberry Pi, onde os principais sistemas de proteção e comunicação estão
-configurados, o microcontrolador ESP32, que é responsável por receber os dados do sensor de
-gás(MQ-02) e os envia-los ao Raspberry Pi com segurança e praticidade. Assim como qualquer
-sistema IoT, que traz os benefícios da integração de equipamentos digitais e gera automatização de
-tarefas, mas com foco principal na proteção dos dados do sistema e dos dispositivos conectados à
-rede, através de ferramentas de segurança e boas práticas de design de rede, visando diminuir as
-fragilidades possíveis nos dispositivos conectados à rede.</p>
+### 💻 AbstractClick to apply
+<p align="justify"> Home automation is an area of technology that studies the automation of a
+home to offer comfort, practicality and security. In recent decades, many
+professionals have focused on connecting equipment, sensors and actuators to the Internet, to allow users to
+users to control and monitor things anytime, anywhere. Various
+IoT (Internet of Things) equipment can have problems with information security,
+Because they are directly connected to the home network, in addition to all the facilitated communication, the
+equipment is also susceptible to various attacks that compromise its functionality,
+creating paths where unauthorized users can take advantage of security breaches and steal personal data directly from the home network.
+personal data directly from the home network. This work demonstrates a methodology for applying
+using a Raspberry Pi, where the main protection and communication systems are configured, the microcontroller
+the ESP32 microcontroller, which is responsible for receiving data from the gas sensor (MQ-02) and the
+sensor (MQ-02) and sending it to the Raspberry Pi safely and conveniently. As with any
+IoT system, which brings the benefits of integrating digital equipment and automating
+automation of tasks, but with the main focus on protecting the system's data and the devices connected to the
+network, using security tools and good network design practices, with the aim of reducing the possible
+possible weaknesses in the devices connected to the network.</p>
 
-# Anotações utilizadas para apresentar juntamente com os slides
+# Notes used to present along with the slides
 <p align="justify">
   
-Slide 1 - Apresentação/agradecimento pela participação da banca
+Slide 1 - Presentation/thank you for participating in the panel
 
-Slide 2 - Introdução:
+Slide 2 - Introduction:
 
-Dispositivos IoT, ou Internet das Coisas, são aparelhos que possuem conexão com a internet e que coletam, processam e transmitem dados sem a necessidade de intervenção humana direta. Eles podem ser sensores, atuadores, controladores, equipamentos de monitoramento, entre outros. 
+IoT devices, or the Internet of Things, are devices that have an internet connection and that collect, process and transmit data without the need for direct human intervention. They can be sensors, actuators, controllers, monitoring equipment and so on. 
 
-Um exemplo do benefício dos dispositivos IoT é a domótica, sendo o conjunto de tecnologias utilizadas para automatizar e integrar funções de uma residência. Com a IoT, é possível controlar diversos dispositivos eletrônicos, como luzes, termostatos, sistemas de segurança, aparelhos eletrodomésticos, entre outros, por meio de uma única plataforma. Isso traz maior comodidade para o usuário, além de reduzir o consumo de energia elétrica. A domótica é apenas um dos muitos exemplos de como a IoT pode transformar a maneira como vivemos.
+One example of the benefits of IoT devices is home automation, which is the set of technologies used to automate and integrate functions in a home. With IoT, it is possible to control various electronic devices, such as lights, thermostats, security systems, household appliances, among others, through a single platform. This brings greater convenience to the user, as well as reducing electricity consumption. Home automation is just one of many examples of how IoT can transform the way we live.
 
-Slide 3 - Justificativa 
+Slide 3 - Justification 
 
-O questionamento que eu gostaria de fazer é, em termos de segurança
+The question I would like to ask is, in terms of security
 
-Mas até que ponto é seguro adicionar diversos equipamentos diretamente a uma rede domestica? 
+But how safe is it to add several devices directly to a home network? 
 
-Desde antes da internet, já haviam pessoas que procuravam modos de atrapalhar o funcionamento de dispositivos ou modificar mensagens enviadas, existem relatos de que no começo dos anos 1900, haviam mensagem de código morse que foram modificadas, por manipulação de ondas de rádio e isso se mantêm até hoje. 
+Since before the internet, there have been people looking for ways to disrupt the operation of devices or modify messages sent, there are reports that in the early 1900s, there were Morse code messages that were modified by manipulating radio waves and this continues today. 
 
-Adicionar diversos equipamentos diretamente a uma rede pode apresentar riscos à segurança, especialmente se esses dispositivos não forem projetados com medidas de segurança adequadas. Dispositivos IoT geralmente possuem recursos limitados portanto, podem ser mais vulneráveis a ataques cibernéticos. Além disso, muitos dispositivos IoT são fabricados por empresas diferentes, cada uma com suas próprias práticas de segurança, o que pode resultar em uma rede heterogênea com dispositivos que variam amplamente em termos de segurança.
+Adding multiple devices directly to a network can pose security risks, especially if these devices are not designed with adequate security measures. IoT devices generally have limited resources and can therefore be more vulnerable to cyber attacks. In addition, many IoT devices are manufactured by different companies, each with their own security practices, which can result in a heterogeneous network with devices that vary widely in terms of security.
 
-É importante adotar medidas de segurança para minimizar esses riscos, como a segmentação da rede para separar dispositivos críticos de dispositivos menos seguros, o uso de senhas fortes e criptografia de dados, além de manter os dispositivos atualizados com as últimas correções de segurança. Também é recomendável evitar conectar dispositivos IoT diretamente à Internet sem proteção adequada, como firewalls e sistemas de detecção de intrusão.
+It is important to adopt security measures to minimize these risks, such as segmenting the network to separate critical devices from less secure ones, using strong passwords and data encryption, and keeping devices up to date with the latest security patches. It is also advisable to avoid connecting IoT devices directly to the Internet without adequate protection, such as firewalls and intrusion detection systems.
 
-Slide 4 - Objetivos
+Slide 4 - Objectives
 
-Diante desses fatos, a ideia é implementar um sistema Iot com enfoque em automação residencial de uma maneira que traga segurança tanto para o sistema em si, quanto para os usuários da rede. 
+Given these facts, the idea is to implement an IoT system with a focus on home automation in a way that brings security both to the system itself and to the users of the network. 
 
-Objetivos específicos:
-- Analisar se há um bom funcionamento entre web servers e raspberry pi.
-- Verificar como o Design de redes afeta a movimentação e privacidade dos dados do usuário do sistema. 
-- Implementar um sistema de comunicação seguro entre dispositivos IoT
+Specific objectives:
+- Analyze whether there is a good functioning between web servers and raspberry pi.
+- Check how network design affects the movement and privacy of the system's user data. 
+- Implement a secure communication system between IoT devices
 
-Slide 5- Pesquisa Bibliográfica  
+Slide 5- Bibliographic Research  
  
-Com o avanço da tecnologia, a interconexão de dispositivos inteligentes tem se tornado cada vez mais comum. Essa rede de dispositivos, conhecida como Internet das Coisas (IoT), traz consigo inúmeras possibilidades para tornar nossas vidas mais eficientes e convenientes. No entanto, a complexidade da estrutura de sistemas IoT pode trazer desafios para sua implementação e segurança. 
+With the advance of technology, the interconnection of smart devices has become increasingly common. This network of devices, known as the Internet of Things (IoT), brings with it countless possibilities to make our lives more efficient and convenient. However, the complexity of the structure of IoT systems can pose challenges for their implementation and security. 
 
-Iremos decorrer os seguintes tópicos:
+We will go through the following topics:
 
-Estrutura de sistemas IoT
+Structure of IoT systems
 
-Ataques utilizados em IoTs
+Attacks used in IoT
 
-Meios de proteção aplicáveis 
+Applicable means of protection 
 
-Slide 6 - Estrutura do sistema 
+Slide 6 - System structure 
  
-Nesse primeiro tópico, abordaremos a estrutura de sistemas IoT e suas principais características
+In this first topic, we'll look at the structure of IoT systems and their main characteristics
 
-Neste caso, teremos um Iot com quatro camadas, sendo essas camadas, de aplicação, de processamento, de transporte e de percepção, respectivamente responsáveis pela interface IHM, web-server, transmissão e recebimento de dados e por último, a camada responsável pelos sensores e atuadores. 
+In this case, we will have an IoT with four layers: application, processing, transport and perception, respectively responsible for the HMI interface, web-server, data transmission and reception, and finally, the layer responsible for sensors and actuators. 
 
-Slide 7 - Ataques utilizados em Iots
+Slide 7 - Attacks used on Iots
 
-Para esse caso, alguns dos ataques são:  
+For this case, some of the attacks are:  
 
-Injeções de códigos maliciosos; reprogramação forçada do sistema; Structured Query Language(SQL) Injection; Ataques de Interceptação de dados; DDOS(Denial-of-service) (ataque de negação de serviço); ataques de roteamento, entre outros.
+Malicious code injections; forced system reprogramming; Structured Query Language(SQL) Injection; Data Interception Attacks; DDOS(Denial-of-service); routing attacks, among others.
 
-Alguns desses ataques podem gerar o sequestro da rede em que o sistema IoT está conectado, disponibilizando todos os dados que são trafegados pela rede ao invasor, possibilitando acesso aos dispositivos conectados a rede(celulares, computadores, tvs smart, qualquer coisa previamente conectada a rede), facilitando o acesso a dados pessoais, acesso a compras na internet, logins, senhas, conversas, tudo que é enviado ou recebido dentro desses dispositivos, pode ser acessado. 
+Some of these attacks can lead to the hijacking of the network to which the IoT system is connected, making all the data that is trafficked over the network available to the attacker, enabling access to devices connected to the network (cell phones, computers, smart TVs, anything previously connected to the network), facilitating access to personal data, access to purchases on the internet, logins, passwords, conversations, everything that is sent or received within these devices can be accessed. 
 
-Slide 8 - Proteções aplicadas
+Slide 8 - Protections applied
 
-Com o crescimento exponencial de dispositivos IoT conectados, a segurança desses equipamentos tornou-se uma preocupação crescente. A falta de padronização e de medidas de segurança adequada torna os dispositivos vulneráveis a ataques cibernéticos e invasões, o que pode levar a graves consequências, como vazamento de informações confidenciais, interrupção de serviços essenciais e danos à integridade física dos usuários.
+With the exponential growth of connected IoT devices, the security of this equipment has become a growing concern. The lack of standardization and adequate security measures makes devices vulnerable to cyber attacks and intrusions, which can lead to serious consequences such as the leakage of confidential information, the interruption of essential services and damage to the physical integrity of users.
 
-Nesse contexto, o design de rede e a implementação de mecanismos de segurança eficientes são fundamentais para garantir a proteção dos dispositivos IoT. Através da utilização de redes segregadas, controle de acesso, autenticação e criptografia, é possível reduzir os riscos de ataques e garantir a confidencialidade, integridade e disponibilidade dos dados transmitidos pelos dispositivos IoT.
+In this context, network design and the implementation of efficient security mechanisms are key to ensuring the protection of IoT devices. By using segregated networks, access control, authentication and encryption, it is possible to reduce the risk of attacks and guarantee the confidentiality, integrity and availability of the data transmitted by IoT devices.
 
-Slide 9 - Conexão com protocolo TLS (Transport Layer Security).
+Slide 9 - Connection with TLS (Transport Layer Security) protocol.
 
-O TLS (Transport Layer Security) é um protocolo de segurança utilizado para proteger a comunicação entre aplicações através da Internet
+TLS (Transport Layer Security) is a security protocol used to protect communication between applications over the Internet
 
-Utiliza criptografia para garantir a privacidade e a integridade dos dados transmitidos, além de fornecer autenticação para verificar a identidade dos envolvidos na comunicação. 
+It uses cryptography to guarantee the privacy and integrity of the data transmitted, as well as providing authentication to verify the identity of those involved in the communication. 
 
-Ele utiliza criptografia de chave pública para estabelecer um canal seguro entre as partes envolvidas, 
+It uses public key cryptography to establish a secure channel between the parties involved, 
 
-Criptografia com chave pública é um esquema unilateral(criptografia assimétrica) que usa um par de chaves para encriptação: uma chave pública, que encripta dados, e uma chave privada correspondente, secreta para desencriptação. Você diz sua chave pública para todos enquanto que você mantém sua chave privada em segredo. Qualquer um com uma cópia de sua chave pública, pode, então, encriptar informação que só você pode ler(você é o receptor e as pessoas que tem a sua chave pública é que podem encriptar a informação para você), ou seja, nem mesmo as pessoas que encriptaram a informação para você, descobrem a informação original.
+Public key cryptography is a one-way scheme (asymmetric cryptography) that uses a pair of keys for encryption: a public key, which encrypts data, and a corresponding, secret private key for decryption. You tell everyone your public key while keeping your private key secret. Anyone with a copy of your public key can then encrypt information that only you can read (you are the receiver and the people who have your public key are the ones who can encrypt the information for you), i.e. not even the people who encrypted the information for you discover the original information.
 
-Slide 10 - TLS - funcionamento do handshake no projeto
+Slide 10 - TLS - how the handshake works in the project
 
-1- O cliente envia uma solicitação de conexão(Olá).
-2- O servidor responde com o certificado digital que contém a chave pública.
-3- O cliente verifica o certificado(APÊNDICE A, contida da linha treze até a linha, trinta e dois) 
-4- O cliente gera uma chave de sessão usando a chave pública do servidor.
-5- O cliente envia o certificado.
-6- O servidor verifica o certificado do cliente.
-7- O cliente termina o reconhecimento
-8- O servidor termina o reconhecimento.
-9- Inicia-se a troca de mensagens criptografada pela própria chave da sessão.
+1- The client sends a connection request (Hello).
+2- The server responds with the digital certificate containing the public key.
+3- The client verifies the certificate(APPENDIX A, contained from line thirteen to line thirty-two) 
+4- The client generates a session key using the server's public key.
+5- The client sends the certificate.
+6- The server verifies the client's certificate.
+7- The client finishes the reconnaissance
+8- The server finishes the acknowledgment.
+9- The exchange of messages begins, encrypted by the session key itself.
 
-O processo de negociação do TLS envolve um handshake entre o cliente e o servidor, no qual são trocadas informações como as versões suportadas pelo cliente e pelo servidor, chaves criptográficas, algoritmos de criptografia e outros parâmetros de segurança. O objetivo deste processo é estabelecer uma conexão segura entre o cliente e o servidor antes que qualquer dado seja transmitido.
+The TLS negotiation process involves a handshake between the client and server, in which information is exchanged such as the versions supported by the client and server, cryptographic keys, encryption algorithms and other security parameters. The aim of this process is to establish a secure connection between the client and the server before any data is transmitted.
 
-Dessa forma, a chave privada nunca é compartilhada. 
+In this way, the private key is never shared.
 
 Slide 11 - DMZ
 
-DMZ significa "Zona Desmilitarizada", é uma área de rede separada que atua como uma camada intermediária de segurança entre a rede interna de uma organização e a Internet pública. A DMZ é geralmente usada para hospedar serviços ou aplicativos que precisam estar acessíveis a usuários externos, como servidores web.
+DMZ stands for "Demilitarized Zone" and is a separate network area that acts as an intermediate layer of security between an organization's internal network and the public Internet. The DMZ is generally used to host services or applications that need to be accessible to external users, such as web servers.
 
-A ideia por trás da DMZ é fornecer um espaço limitado e controlado para permitir a comunicação entre a rede interna da organização e a Internet, reduzindo assim o risco de ataques diretos à rede interna. Os servidores na DMZ são configurados com políticas de segurança mais rigorosas do que os servidores na rede interna, com acesso limitado apenas aos serviços necessários para seu funcionamento.
+The idea behind the DMZ is to provide a limited and controlled space to allow communication between the organization's internal network and the Internet, thus reducing the risk of direct attacks on the internal network. Servers in the DMZ are configured with stricter security policies than servers on the internal network, with access limited to only the services necessary for their operation.
 
-Explicar a estrutura
+Explain the structure
 
-Slide 12 - Metodologia
+Slide 12 - Methodology
 
-Os pontos principais da metodologia são: equipamentos e a estrutura implementada; implementação do OpenHabian; implementação do MQTT e TLS e da DMZ.
+The main points of the methodology are: equipment and the structure implemented; implementation of OpenHabian; implementation of MQTT and TLS and the DMZ.
 
-Slide 13 - Equipamentos e estrutura implementada
+Slide 13 - Equipment and structure implemented
 
-Hardware: Será utilizado um Raspberry pi 3 model b, um micro-computador, com um processador Quad Core 1.2GHz, 1 GB de memória RAM, e wireless(rede sem fio), responsável por receber os dados enviados pelo ESP32, e disponibilizá-los através da interface OpenHABian; 
-um microcontrolador ESP32(dual core, com conectividade wifi de baixo custo e consumo de energia); 
+Hardware: A Raspberry pi 3 model b will be used, a micro-computer with a Quad Core 1.2GHz processor, 1 GB of RAM, and wireless (wireless network), responsible for receiving the data sent by the ESP32, and making it available via the OpenHABian interface; 
+an ESP32 microcontroller (dual core, with low-cost wifi connectivity and low power consumption); 
 
-um módulo de sensor de gás(MQ-02) com faixa de detecção de gás inflamável de 300 a 10000 ppm(partes por milhão), que indica concentração do gás em um milhão de partes de ar; 
+a gas sensor module (MQ-02) with a flammable gas detection range of 300 to 10000 ppm (parts per million), which indicates the concentration of the gas in one million parts of air; 
 
-um roteador TL-WR949N(Onde será aplicado a DMZ na porta onde o RPi fica conectado) 
+a TL-WR949N router (where the DMZ will be applied to the port where the RPi is connected) 
 
-e também um computador com o sistema Windows(servirá para acessar o webserver gerado pelo OpenHABian e configuração do roteador). 
+and a Windows computer (to access the webserver generated by OpenHABian and configure the router). 
 
-Software e protocolos: Será utilizado o OpenHABian, que junta o sistema operacional Linux e o software de automação residencial openhab, o mesmo será responsável por gerar a interface homem-máquina e permitir/negar o envio de comandos por dispositivos autorizados na rede; 
+Software and protocols: OpenHABian will be used, which combines the Linux operating system and the openhab home automation software, which will be responsible for generating the human-machine interface and allowing/denying the sending of commands by authorized devices on the network; 
 
-PUTTY, terminal de simulação open source, que cria conexões seguras com canais criptografados; 
+PUTTY, an open source simulation terminal that creates secure connections with encrypted channels; 
 
-protocolo MQTT, para comunicação entre o RPi e o ESP32, o MQTT Broker utilizado será o Eclipse Mosquitto; 
+MQTT protocol, for communication between the RPi and the ESP32, the MQTT Broker used will be Eclipse Mosquitto; 
 
-Openssl, uma biblioteca de criptografia que suporta protocolos como o TLS; 
+Openssl, a cryptography library that supports protocols such as TLS; 
 
-TPCDUMP, ferramenta utilizada para visualizar e examinar pacotes de rede em tempo real, verificando a segurança da rede e o seu desempenho;
+TPCDUMP, a tool used to visualize and examine network packets in real time, verifying network security and performance;
 
-UFW(The Uncomplicated Firewall) estrutura para gerenciar o filtro da internet, bem como uma interface de linha de comando para manipular o firewal(PITT, 2007).
+UFW (The Uncomplicated Firewall), a framework for managing the Internet filter, as well as a command line interface for manipulating the firewall (PITT, 2007).
 
-Slide 14 - Implementação do OpenHabian
+Slide 14 - Implementing OpenHabian
 
-Este é um setup simples, consiste em acessar no repositório da openhab a imagem do openhabian, e utilizar um software como o Etcher para gravar a imagem no cartão SD e inserir o cartão no Raspberry, ligar o raspberry e deixa-lo se auto configurar durante aproximadamente 30 minutos. Apos o setup. Poderá acessar por SSH ou pelo webserver utilizando o navegador na porta 8080. 
+This is a simple setup, consisting of accessing the openhabian image from the openhab repository, using software such as Etcher to record the image on the SD card and inserting the card into the Raspberry, turning on the raspberry and letting it configure itself for approximately 30 minutes. After setup. You can access it via SSH or via the webserver using the browser on port 8080. 
 
-No primeiro acesso, será configurado o usuário administrador, com nome e senha. 
+On first access, the administrator user will be configured, with a name and password. 
 
-Slide 15 - Implementação do MQTT e TLS
+Slide 15 - Implementing MQTT and TLS
 
-Para configurar o MQTT com Eclipse e TLS em um Raspberry Pi via SSH, é necessário seguir alguns passos. Primeiramente, é preciso instalar o MQTT Broker Mosquitto e, em seguida, configurá-lo para usar o protocolo TLS. Gerar um par de chaves e certificados utilizando o OpenSSL. Após gerados, os certificados devem ser copiados para o diretório do Mosquitto.
+To set up MQTT with Eclipse and TLS on a Raspberry Pi via SSH, you need to follow a few steps. First, you need to install the MQTT Broker Mosquitto and then configure it to use the TLS protocol. Generate a key pair and certificates using OpenSSL. Once generated, the certificates must be copied to the Mosquitto directory.
 
-Em seguida, é preciso configurar o cliente MQTT para usar o protocolo TLS. Isso envolve a geração de um par de chaves e certificados para o cliente MQTT, também usando o OpenSSL. O cliente deve ser configurado para se conectar ao Mosquitto usando o protocolo MQTT com TLS.
+Next, you need to configure the MQTT client to use the TLS protocol. This involves generating a key pair and certificates for the MQTT client, also using OpenSSL. The client must be configured to connect to Mosquitto using the MQTT protocol with TLS.
 
-Por fim, é importante testar a conexão para verificar se tudo está funcionando corretamente. Isso pode ser feito utilizando ferramentas como o mosquitto_sub para se inscrever em um tópico e o mosquitto_pub para publicar uma mensagem em um tópico. Se a conexão estiver funcionando corretamente, as mensagens devem ser criptografadas com o protocolo TLS.
+Finally, it is important to test the connection to check that everything is working correctly. This can be done using tools such as mosquitto_sub to subscribe to a topic and mosquitto_pub to publish a message in a topic. If the connection is working properly, messages should be encrypted with the TLS protocol.
 
-Slide 16 - Implementação do TLS
+Slide 16 - Implementing TLS
 
-Primeiramente, o TLS irá usar os algoritmos RSA e 3DES
+Firstly, TLS will use the RSA and 3DES algorithms
 
-RSA: significa "Rivest-Shamir-Adleman", sendo um algoritmo criptográfico de chave pública criado por Ron Rivest, Adi Shamir e Leonard Adleman em 1977. 
+RSA: stands for "Rivest-Shamir-Adleman" and is a public key cryptographic algorithm created by Ron Rivest, Adi Shamir and Leonard Adleman in 1977. 
 
-A segurança do RSA é baseada na dificuldade de fatorar números inteiros grandes em seus fatores primos.
+RSA's security is based on the difficulty of factoring large integers into their prime factors.
 
-O processo de encriptação começa com o remetente transformando a mensagem em um número inteiro, e em seguida, criptografando esse número com a chave pública do destinatário. A mensagem criptografada é então enviada ao destinatário, que usa sua chave privada para descriptografar a mensagem de volta para o texto original.
+The encryption process begins with the sender transforming the message into an integer, and then encrypting this number with the recipient's public key. The encrypted message is then sent to the recipient, who uses their private key to decrypt the message back to the original text.
 
-O processo de geração das chaves RSA envolve a escolha de dois números primos grandes e distintos, e a computação do produto desses números, que é utilizado como o módulo para o algoritmo. Em seguida, é gerado um valor de expoente de criptografia, que é relativamente primo ao valor de phi, o que garante a existência de uma chave de descriptografia correspondente.
+The process of generating RSA keys involves choosing two large, distinct prime numbers and computing the product of these numbers, which is used as the modulus for the algorithm. An encryption exponent value is then generated, which is relatively prime to the value of phi, which guarantees the existence of a corresponding decryption key.
 
-O algoritmo RSA é amplamente utilizado em sistemas de segurança de informação, como criptografia de e-mails e autenticação em sistemas de criptomoedas. No entanto, a sua segurança pode ser comprometida por meio de ataques de força bruta, fatoração de números primos grandes ou ataques a implementações vulneráveis.
+The RSA algorithm is widely used in information security systems, such as email encryption and authentication in cryptocurrency systems. However, its security can be compromised through brute force attacks, factoring of large prime numbers or attacks on vulnerable implementations.
 
-3DES:Triple Data Encryption Standard) é uma versão aprimorada do algoritmo de criptografia DES, que usa três chaves de 56 bits em vez de uma única chave. Ele é amplamente utilizado em sistemas de segurança de dados para criptografar informações confidenciais, como senhas e números de cartão de crédito.
+3DES (Triple Data Encryption Standard) is an improved version of the DES encryption algorithm, which uses three 56-bit keys instead of a single key. It is widely used in data security systems to encrypt sensitive information such as passwords and credit card numbers.
 
-O 3DES usa um processo de criptografia em bloco, em que cada bloco de dados é criptografado separadamente. O algoritmo executa uma operação conhecida como cifração, que embaralha os bits do bloco de dados para produzir uma sequência aparentemente aleatória de bits. Isso é feito três vezes com chaves diferentes para garantir maior segurança.
+3DES uses a block encryption process, in which each block of data is encrypted separately. The algorithm performs an operation known as encryption, which scrambles the bits of the data block to produce an apparently random sequence of bits. This is done three times with different keys to ensure greater security.
 
-Esses comandos, têm a função de, respectivamente, instalar o openssl; gerar uma chave privada com algoritmo RSA é criptografada por algoritmo 3DES, salvar essa chave no arquivo ca.key(chave do cliente) com o tamanho de 2048 bits; gerar a “entidade” responsável por emitir e gerenciar o certificado digitais CA(Certificate Authority); gerar a chave do servidor; cria um certificado de requisição CSR(Certificate Signing Request), que contém informações sobre o servidor, como nome de domínio, e é usada para solicitar o certificado assinado pela autoridade de certificação CA, sendo responsável por estabelecer a identidade do servidor para os clientes que se conectam ao serviço; cria o certificado do MQTT Broker, utilizando os certificados e chaves já criados, juntamente com um número de série único do certificado. 
+These commands have the function of, respectively, installing openssl; generating a private key with the RSA algorithm that is encrypted by the 3DES algorithm, saving this key in the file ca. key (client key) file with a size of 2048 bits; generate the "entity" responsible for issuing and managing the digital CA (Certificate Authority) certificate; generate the server key; create a CSR (Certificate Signing Request) certificate, which contains information about the server, such as the domain name, and is used to request the certificate signed by the CA (Certificate Authority), and is responsible for establishing the server's identity for clients connecting to the service; create the MQTT Broker certificate, using the certificates and keys already created, along with a unique certificate serial number. 
 
-Também é necessário criar um arquivo de texto, no diretório “/etc/mosquitto/conf.d”:
+It is also necessary to create a text file in the "/etc/mosquitto/conf.d" directory:
 
-Esse arquivo será carregado e iniciado no MQTT Broker, ditando as regras de funcionamento dele, identificando os certificados e a chave do servidor, além da preferência de comunicação pelo protocolo TLS 1.2. A configuração em relação ao MQTT Broker diretamente no openhan, acessada, com qualquer navegador web pela porta 8080 tem poucas diferenças da anterior, basta adicionar a porta 8883, manter o usuário e senha escolhidos, e adicionar a hash(resumo) do CA nas configurações avançadas. 
+This file will be loaded and started in the MQTT Broker, dictating its operating rules, identifying the certificates and the server key, as well as the preference for communication using the TLS 1.2 protocol. The configuration of the MQTT Broker directly in openhan, accessed with any web browser via port 8080, has few differences from the previous one: just add port 8883, keep the user and password chosen, and add the CA hash (summary) in the advanced settings. 
 
-Slide 17 - Implementação da DMZ
+Slide 17 - DMZ implementation
 
-A DMZ (zona desmilitarizada) é uma rede separada que é configurada em um roteador para permitir o acesso direto à Internet para um dispositivo específico. Isso é útil para dispositivos que precisam de acesso externo, como servidores web, sem comprometer a segurança da rede interna.
+A DMZ (demilitarized zone) is a separate network that is configured on a router to allow direct access to the Internet for a specific device. This is useful for devices that need external access, such as web servers, without compromising the security of the internal network.
 
-Para configurar uma DMZ em um roteador comum, é necessário acessar as configurações do roteador e encontrar a opção para configurar a DMZ. Em seguida, é necessário selecionar o endereço IP do dispositivo que será colocado na DMZ. Este endereço IP será exposto diretamente à Internet, sem as proteções do firewall do roteador.
+To set up a DMZ on a regular router, you need to access the router's settings and find the option to set up the DMZ. Next, you need to select the IP address of the device that will be placed in the DMZ. This IP address will be directly exposed to the Internet, without the protections of the router's firewall.
 
-Uma vez configurada a DMZ, o dispositivo selecionado terá acesso direto à Internet, mas permanecerá isolado da rede interna. É importante lembrar que colocar um dispositivo na DMZ expõe-no a ameaças externas, portanto, é importante garantir que o dispositivo esteja adequadamente protegido com mecanismos de segurança, como atualizações de software regulares e autenticação forte.
+Once the DMZ has been set up, the selected device will have direct access to the Internet, but will remain isolated from the internal network. It is important to remember that placing a device in the DMZ exposes it to external threats, so it is important to ensure that the device is adequately protected with security mechanisms, such as regular software updates and strong authentication.
 
-Slide 18 - Resultados obtidos
+Slide 18 - Results obtained
 
-Nessa primeira figura temos uma resposta ideal e apresenta as conexões estabelecidas, observa-se em vermelho, as conexões do MQTT Broker, e em azul, as conexões estabelecidas entre o MQTT Broker e o MQTT Client.
+In this first figure we have an ideal response and shows the connections established, we can see in red, the connections from the MQTT Broker, and in blue, the connections established between the MQTT Broker and the MQTT Client.
 
-Nesse caso, temos uma conexão pela porta 1883, sem o protocolo TLS, para visualizarmos como os dados trafegam na rede
+In this case, we have a connection through port 1883, without the TLS protocol, so we can see how the data travels on the network
 
-Utilizando o TPCDump, podemos observar essa resposta abaixo
+Using TPCDump, we can see this response below
 
-Observamos os dados no retângulo verde, os equipamentos que estão se comunicando, IP 192.168.0.100(RPi) está recebendo informações do IP 192.168.0.102 (ESP32), os dados estão sendo publicados no tópico “myHome/gasSensor” (no quadrado vermelho), o número ao lado do tópico corresponde ao valor do sensor. A conexão entre o microcontrolador e o servidor MQTT foi estabelecida com sucesso mediante a utilização da porta 1883, mas de acordo com a figura 6, nota-se que o sistema está vulnerável em relação aos dados dos pacotes enviados, e recebidos.
+We can see the data in the green rectangle, the devices that are communicating, IP 192.168.0.100 (RPi) is receiving information from IP 192.168.0.102 (ESP32), the data is being published in the "myHome/gasSensor" topic (in the red square), the number next to the topic corresponds to the value of the sensor. The connection between the microcontroller and the MQTT server was successfully established using port 1883, but according to figure 6, it can be seen that the system is vulnerable with regard to the data in the packets sent and received.
 
-Slide 19 - Resultados obtidos
+Slide 19 - Results obtained
 
-Vemos os dados de forma diferente, pois se trata do tráfego após a implementação de todos os algoritmos(RSA, 3DES e protocolo de comunicação TLS), no quadrado verde, os equipamentos que estão se comunicando, IP 192.168.0.100(RPi) está recebendo informações do IP 192.168.0.103(ESP32), os dados estão sendo publicados no tópico myHome/gasSensor, mas não é possível identificar o tópico de publicação e nem o conteúdo dos pacotes. 
+We see the data differently, as it is traffic after the implementation of all algorithms (RSA, 3DES and TLS communication protocol), in the green square, the equipment that is communicating, IP 192.168.0.100(RPi) is receiving information from IP 192.168.0.103(ESP32), the data is being published in the myHome/gasSensor topic, but it is not possible to identify the publication topic or the content of the packets. 
 
-Com base na sequência do handshake e na metodologia implementada, é nítido que as táticas foram implementadas de forma correta e tiveram a funcionalidade explorada. Após gerar todos os certificados e chaves necessárias, assim como liberar as portas por meio do UFW e configurar o MQTT Broker no Openhab, obtemos esse resultado, mostrando o tráfego dos dados na porta 8883. 
+Based on the handshake sequence and the innovative methodology, it is clear that the tactics were correctly innovative and had their functionality explored. After all generating the possible certificates and keys, as well as releasing the ports through UFW and configuring the MQTT Broker in Openhab, we obtain this result, showing data traffic on port 8883. 
 
-Utilizando um protocolo TLS com chaves e certificados gerados pelo OpenSSL, os dados trocados entre o MQTT broker e o MQTT client são criptografados, o que reduz a possibilidade da interceptação e manipulação por parte de terceiros mal-intencionados.
+Using a TLS protocol with keys and certificates generated by OpenSSL, data exchanged between the MQTT broker and the MQTT client is encrypted, which reduces the possibility of interception and manipulation by malicious third parties.
 
-Slide 20 - Considerações finais
+Slide 20 - Final considerations
 
-Considerando o sistema, é possível concluir que a utilização de um protocolo seguro de comunicação como o TLS pode trazer diversos benefícios em termos de segurança e privacidade para a transmissão de dados em sistemas IoT. A utilização do MQTT como protocolo de comunicação também mostrou-se eficiente, permitindo a troca de mensagens de forma assíncrona. Além disso, a utilização do Raspberry Pi como centralizador do sistema, juntamente com o uso do OpenHABian como sistema operacional, permitiu uma fácil integração entre os diferentes componentes do projeto, bem como a disponibilidade de ferramentas de gerenciamento e monitoramento. A utilização do UFW para gerenciamento de portas, bem como a geração e uso de chaves e certificados criptográfados com o OpenSSL, da mais segurança da comunicação entre os dispositivos, evitando possíveis ataques externos, tais como:
+Considering the system, it is possible to conclude that the use of a secure communication protocol such as TLS can bring several benefits in terms of security and privacy for data transmission in IoT systems. The use of MQTT as a communication protocol also proved to be efficient, allowing the exchange of messages asynchronously. Furthermore, the use of Raspberry Pi as the system's centralizer, together with the use of OpenHABian as the operating system, allowed easy integration between the different components of the project, as well as the availability of management and monitoring tools. The use of UFW for port management, as well as the generation and use of keys and certificates encrypted with OpenSSL, provides greater security for communication between devices, avoiding possible external attacks, such as:
 
-Interceptação de dados
+Data interception
 
-Modificação de dados
+Data modification
 
-Spoofing onde um atacante tenta se passar por um dispositivo legítimo. 
+Spoofing where an attacker tries to impersonate a legitimate device. 
 
-Ataques de negação de serviço (DoS): o uso de TLS também pode ajudar a prevenir ataques DoS que tentam inundar o MQTT broker com solicitações falsas ou excessivas, pois o protocolo TLS tem recursos para limitar o número de conexões por segundo.
+Denial of Service (DoS) attacks: Using TLS can also help prevent DoS attacks that attempt to flood the MQTT broker with false or excessive requests, as the TLS protocol has capabilities to limit the number of connections per second.
 
-Sniffing: o uso de TLS também ajuda a prevenir ataques de sniffing, onde um atacante tenta capturar informações sensíveis
+Sniffing: Using TLS also helps prevent sniffing attacks, where an attacker attempts to capture sensitive information
 
-Assim, conclui-se que a utilização da arquitetura proposta, com a combinação de diferentes tecnologias e ferramentas, permitiu a criação de um sistema de monitoramento (IoT) da qualidade do ar de forma segura, eficiente e com baixo consumo de recursos.
+Thus, it is concluded that the use of the proposed architecture, with the combination of different technologies and tools, allowed the creation of an air quality monitoring system (IoT) in a safe, efficient way and with low resource consumption.
 
-Slide 21 - Limitações 
+Slide 21 - Limitations 
 
-Uma limitação desse sistema é a falta de um firewall físico na DMZ. Embora o firewall do sistema operacional (como o UFW neste caso) possa ajudar a bloquear tráfego indesejado, um firewall físico dedicado pode oferecer uma proteção mais robusta. Um firewall físico pode inspecionar o tráfego de rede em um nível mais profundo e tomar decisões de bloqueio com base em políticas específicas de segurança. No entanto, a implementação de um firewall físico também adiciona complexidade ao sistema e pode aumentar os custos de infraestrutura.
+A limitation of this system is the lack of a physical firewall in the DMZ. While the operating system's firewall (like UFW in this case) can help block unwanted traffic, a dedicated physical firewall can offer more robust protection. A physical firewall can inspect network traffic at a deeper level and make blocking decisions based on specific security policies. However, implementing a physical firewall also adds complexity to the system and can increase infrastructure costs.
 
-Outra limitação é que o sistema não oferece proteção contra ataques de força bruta. Se um atacante conseguir acesso às chaves de criptografia ou senhas, ele poderá tentar adivinhar a chave ou senha através de tentativa e erro. Para minimizar esse risco, é importante escolher senhas seguras e utilizar medidas adicionais de autenticação, como a autenticação em dois fatores.
-Além disso, o sistema não oferece proteção contra ataques de phishing, que são aqueles em que um atacante tenta enganar o usuário final para obter informações confidenciais, como senhas ou chaves de criptografia. É importante que os usuários finais sejam treinados para reconhecer esse tipo de ataque e evitar clicar em links suspeitos ou fornecer informações confidenciais.
+Another limitation is that the system does not offer protection against brute force attacks. If an attacker gains access to encryption keys or passwords, he or she may attempt to guess the key or password through trial and error. To minimize this risk, it is important to choose strong passwords and use additional authentication measures, such as two-factor authentication.
+Additionally, the system does not offer protection against phishing attacks, which are those in which an attacker attempts to trick the end user into obtaining confidential information such as passwords or encryption keys. It is important that end users are trained to recognize this type of attack and avoid clicking on suspicious links or providing sensitive information.
 
-Slide 22 - Agradecimento.</p>
+Slide 22 - Thank you.</p>
